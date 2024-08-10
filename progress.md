@@ -1,0 +1,1 @@
+up next: https://github.com/smlnski/AI-For-Beginners/tree/main/lessons/2-Symbolic#%EF%B8%8F-exercise-a-family-ontology
